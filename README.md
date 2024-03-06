@@ -2,7 +2,7 @@
 
 ## Деплой готового приложения
 
-[ivan-gav.github.io/selsup-test-task](https://ivan-gav.github.io/valantis-test-task/)
+[ivan-gav.github.io/selsup-test-task](https://ivan-gav.github.io/selsup-test-task/)
 
 ## Редактор параметров
 
